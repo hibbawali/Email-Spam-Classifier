@@ -14,10 +14,12 @@ A machine learning project that detects spam messages using TF-IDF vectorization
 - Naive Bayes outperformed Logistic Regression on recall (0.79 vs 0.72)
 
 ## Project Structure
-├── Spam_classification.ipynb  # Main notebook 
-├── app.py                     # Flask web app 
-├── requirements.txt           # Dependencies 
-└── templates/                 # HTML templates 
+```
+├── Spam_classification.ipynb  # Main notebook
+├── app.py                     # Flask web app
+├── requirements.txt           # Dependencies
+└── templates/                 # HTML templates
+```
 
 ## Tech Stack
 - Python, Scikit-learn, Pandas, Flask
